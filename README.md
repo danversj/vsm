@@ -1,3 +1,0 @@
-# vsm
-
-TESTING 123
